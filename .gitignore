@@ -34,5 +34,5 @@ build/
 .vscode/
 
 /pom.xml
-apps
+application
 application-localhost.properties
