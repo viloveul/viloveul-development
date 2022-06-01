@@ -33,5 +33,6 @@ build/
 ### VS Code ###
 .vscode/
 
+./pom.xml
 apps
 application-localhost.properties
