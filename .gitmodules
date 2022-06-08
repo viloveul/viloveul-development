@@ -4,9 +4,6 @@
 [submodule "package/context"]
 	path = package/context
 	url = git@github.com:viloveul/viloveul-package-context.git
-[submodule "package/module/common"]
-	path = package/module/common
-	url = git@github.com:viloveul/viloveul-package-module-common.git
 [submodule "package/module/management"]
 	path = package/module/management
 	url = git@github.com:viloveul/viloveul-package-module-management.git
