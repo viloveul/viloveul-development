@@ -13,6 +13,6 @@
 		<module>package/module/common</module>
 		<module>package/module/management</module>
 		<module>package/module/integration</module>
-		<module>example/management</module>
+		<module>example</module>
 	</modules>
 </project>
