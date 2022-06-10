@@ -13,6 +13,3 @@
 [submodule "package/module/integration"]
 	path = package/module/integration
 	url = git@github.com:viloveul/viloveul-package-module-integration.git
-[submodule "example/management"]
-	path = example/management
-	url = git@github.com:viloveul/viloveul-example-management.git
